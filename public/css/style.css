@@ -231,8 +231,8 @@ ul.navbar-bawah li a {
 }
 
 .waktu p {
-  text-shadow: 0 0 10px var(--warna2);
-  font-size: 46px;
+  text-shadow: 0 0 5px var(--warna2);
+  font-size: 3rem;
   font-family: "Birthstone Bounce", cursive;
   display: block;
   -webkit-margin-before: 1em;
